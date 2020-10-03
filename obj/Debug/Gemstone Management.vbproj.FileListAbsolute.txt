@@ -1,0 +1,26 @@
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.exe
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.pdb
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.xml
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\ResolveAssemblyReference.cache
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.Form1.resources
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.Resources.resources
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.product.resources
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.vbproj.GenerateResource.Cache
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.exe
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.xml
+F:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.pdb
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.exe
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.xml
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.pdb
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.exe
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.pdb
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.xml
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.Resources.resources
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.product.resources
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.vbproj.GenerateResource.Cache
+C:\Users\Haresh\Desktop\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone_Management.Purchase_Form.resources
+D:\Gemstone Management\Code\Gemstone Management\Gemstone Management\bin\Debug\Gemstone Management.exe.config
+D:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.exe
+D:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.xml
+D:\Gemstone Management\Code\Gemstone Management\Gemstone Management\obj\Debug\Gemstone Management.pdb
